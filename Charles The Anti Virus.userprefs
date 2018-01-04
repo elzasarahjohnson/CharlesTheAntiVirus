@@ -6,7 +6,7 @@
       <File FileName="Assets\_Scripts\BacteriaController.cs" Line="1" Column="1" />
       <File FileName="Assets\_Scripts\GameController.cs" Line="1" Column="1" />
       <File FileName="Assets\_Scripts\WhiteCellController.cs" Line="1" Column="1" />
-      <File FileName="Assets\_Scripts\BulletCollision.cs" Line="29" Column="8" />
+      <File FileName="Assets\_Scripts\BulletCollision.cs" Line="28" Column="2" />
       <File FileName="Assets\_Scripts\StartButtonScript.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>

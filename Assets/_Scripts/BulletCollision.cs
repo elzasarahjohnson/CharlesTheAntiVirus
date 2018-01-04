@@ -26,4 +26,3 @@ public class BulletCollision : MonoBehaviour {
 		}
 	}
 }
-//hello
